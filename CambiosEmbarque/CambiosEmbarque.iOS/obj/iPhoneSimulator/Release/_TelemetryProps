@@ -1,0 +1,6 @@
+EnableLLVM=False
+UseConcurrentGC=False
+LinkerBehavior=SdkOnly
+AdditionalSupportedEncodings=
+HttpClientImplementation=CFNetworkHandler
+SupportedArchitectures=x86_64

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EmbarquesADM.LoginPage" Title="Embarques ADM">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="V.1.6"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="StartAndExpand">
+            <Image Source="logos"
+               WidthRequest="{OnPlatform iOS=300, Android=250}"
+               HorizontalOptions="Center"/>
+            <Image Source="EmbAdmLogo"
+               WidthRequest="{OnPlatform iOS=300, Android=250}"
+               HorizontalOptions="Center"/>
+            <Label Text="Usuario:" />
+            <Entry x:Name="usernameEntry" Placeholder="Nombre de Usuario" />
+            <Label Text="Contraseña:" />
+            <Entry x:Name="passwordEntry" IsPassword="true" />
+            <Button Text="Entrar" Clicked="OnLoginButtonClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

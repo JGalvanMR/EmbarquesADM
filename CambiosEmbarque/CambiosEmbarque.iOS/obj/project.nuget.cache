@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iR3/k6p8rQsMqaRa9DYyifquvSJjdFn2Fc3IyryvVRD3frUUXpWxaWwur/jDiNM6XV/qM8LItQ59KPU3iMzfVg==",
+  "success": true,
+  "projectFilePath": "G:\\repos2\\CambiosEmbarque\\CambiosEmbarque\\CambiosEmbarque.iOS\\CambiosEmbarque.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus.DESKTOP-RGDD49H\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\jesus.DESKTOP-RGDD49H\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}

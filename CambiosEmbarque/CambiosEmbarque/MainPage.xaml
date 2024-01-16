@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:syncfusion="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EmbarquesADM.MainPage" Title="Opciones - Embarques ADM">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Logout" Clicked="OnLogoutButtonClicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="NombredeUsuario"  Text="Usuario:"/>
+            <Label Text="Elija Una Opcion del Menu de Opciones:"/>
+            <Picker x:Name="picker"
+            Title="Seleccione una Opcion">
+                <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Abrir Orden</x:String>
+                            <x:String>Saltar Notificacion Producto</x:String>
+                            <x:String>Desvincular Trailer a Orden</x:String>
+                            <x:String>Cerrar Sesion via Remota</x:String>
+                            <x:String>Liberar Fotos de Verificacion Trailer</x:String>
+                            <x:String>Cambiar Estatus Surtido de Orden</x:String>
+                            <x:String>Autorizar Nuevas Ordenes</x:String>
+                            <x:String>Autorizar Cambios en Ordenes</x:String>
+                            <x:String>Autorizar Ajuste Baja Por Producto</x:String>
+                            <x:String>Sacar Trailer del Sistema</x:String>
+                            <x:String>Desactivar Activar Funciones Presplit</x:String>
+                    </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            <ActivityIndicator Color="Red" x:Name="Indicador" IsRunning="false" IsVisible="False"/>
+            <Button Text="Continuar" Clicked="OnContinuarClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

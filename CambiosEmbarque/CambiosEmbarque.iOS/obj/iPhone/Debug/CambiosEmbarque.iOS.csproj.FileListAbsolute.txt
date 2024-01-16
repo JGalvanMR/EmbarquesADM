@@ -1,0 +1,43 @@
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Contents.json.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\LogoADM.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\logos.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon1024.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon180.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon167.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon152.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon120.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon87.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon80.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon76.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon60.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon58.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon40.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon29.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\Icon20.png.ResolveUTIs.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.exe
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.pdb
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.csprojAssemblyReference.cache
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\optimized\
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.csproj.AssemblyReference.cache
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.csproj.CoreCompileInputs.cache
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\XamlC.stamp
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.exe
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque.iOS\obj\iPhone\Debug\CambiosEmbarque.iOS.pdb

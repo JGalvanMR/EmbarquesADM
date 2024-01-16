@@ -1,0 +1,25 @@
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\bin\Debug\netstandard2.0\EmbarquesADM.deps.json
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\bin\Debug\netstandard2.0\EmbarquesADM.dll
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\bin\Debug\netstandard2.0\EmbarquesADM.pdb
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\CambiosEmbarque.csprojAssemblyReference.cache
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\CambiosEmbarque.AssemblyInfoInputs.cache
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\CambiosEmbarque.AssemblyInfo.cs
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\CambiosEmbarque.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\EmbarquesADM.dll
+C:\Users\Daniel Muñoz\source\repos\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\EmbarquesADM.pdb
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\bin\Debug\netstandard2.0\EmbarquesADM.deps.json
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\bin\Debug\netstandard2.0\EmbarquesADM.dll
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\bin\Debug\netstandard2.0\EmbarquesADM.pdb
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\CambiosEmbarque.csproj.CoreCompileInputs.cache
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\CambiosEmbarque.AssemblyInfoInputs.cache
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\CambiosEmbarque.AssemblyInfo.cs
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\XamlC.stamp
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\EmbarquesADM.dll
+E:\repos2\CambiosEmbarque\CambiosEmbarque\CambiosEmbarque\obj\Debug\netstandard2.0\EmbarquesADM.pdb
