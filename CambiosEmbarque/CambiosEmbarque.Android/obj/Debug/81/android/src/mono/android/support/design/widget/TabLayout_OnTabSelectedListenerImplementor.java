@@ -22,8 +22,9 @@ public class TabLayout_OnTabSelectedListenerImplementor
 	public TabLayout_OnTabSelectedListenerImplementor ()
 	{
 		super ();
-		if (getClass () == TabLayout_OnTabSelectedListenerImplementor.class)
+		if (getClass () == TabLayout_OnTabSelectedListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Support.Design.Widget.TabLayout+IOnTabSelectedListenerImplementor, Xamarin.Android.Support.Design", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 
