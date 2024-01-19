@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmbarquesADM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7802c644ad6d60c721bc64d43aee7ec03722c05")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmbarquesADM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmbarquesADM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

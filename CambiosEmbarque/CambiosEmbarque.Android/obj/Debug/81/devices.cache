@@ -1,7 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Devices>
-  <Device id="21176B82F4">
-    <ResultingAbi>arm64-v8a</ResultingAbi>
-    <SdkVersion>27</SdkVersion>
-  </Device>
-</Devices>
+<Devices><Device id="21176B82F4"><ResultingAbi>arm64-v8a</ResultingAbi><SdkVersion>27</SdkVersion></Device><Device id="21176B8583"><ResultingAbi>arm64-v8a</ResultingAbi><ToolsAbi /><SdkVersion>29</SdkVersion><LongOutput>product:EDA51;model:EDA51;device:EDA51-1;transport_id:36</LongOutput></Device></Devices>

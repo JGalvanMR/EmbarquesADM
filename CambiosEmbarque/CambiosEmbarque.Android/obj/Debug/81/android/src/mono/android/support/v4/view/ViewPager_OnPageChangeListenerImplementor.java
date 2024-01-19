@@ -22,8 +22,9 @@ public class ViewPager_OnPageChangeListenerImplementor
 	public ViewPager_OnPageChangeListenerImplementor ()
 	{
 		super ();
-		if (getClass () == ViewPager_OnPageChangeListenerImplementor.class)
+		if (getClass () == ViewPager_OnPageChangeListenerImplementor.class) {
 			mono.android.TypeManager.Activate ("Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.Core.UI", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 

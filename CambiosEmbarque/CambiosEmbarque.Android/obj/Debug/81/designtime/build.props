@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=
+_nugetassetstimestamp=638410064498077201
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=g:\repos2\cambiosembarque\cambiosembarque\cambiosembarque.android\cambiosembarque.android.csproj
+projectfullpath=c:\github\embarquesadm\cambiosembarque\cambiosembarque.android\cambiosembarque.android.csproj
